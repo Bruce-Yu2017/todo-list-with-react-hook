@@ -1,0 +1,11 @@
+.title {
+    color: blueviolet;
+}
+
+.todoTable {
+    text-align: center;
+}
+
+.deletedcontentName {
+    color: rgb(240, 15, 15);
+}
